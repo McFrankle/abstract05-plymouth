@@ -1,4 +1,7 @@
 # abstract05-plymouth
-**well** so far we created a *stable* branch.  
-**and now** we have a *testing* branch.  
-**OK NOW E ** have *unstable*.
+## Version Control
+### Branches
+- Use *master* if you are worried about backwards compatibility.
+- Use *stable* unless you have a good reason for using a different branch.
+- Use *testing* if you want to join the bug hunt.
+- Use *unstable* if you're curious about the latest features.
