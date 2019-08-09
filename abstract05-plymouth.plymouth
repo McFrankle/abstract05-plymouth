@@ -1,0 +1,8 @@
+[Plymouth Theme]
+Name=Abstract theme No. 5 for Debian 10.0 Buster
+Description=To be determined
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/abstract05-plymouth
+ScriptFile=/usr/share/plymouth/themes/futureprototype/abstract05-plymouth.script
